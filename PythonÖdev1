@@ -1,0 +1,34 @@
+#1)  
+# Sayisal(Nümerik) Veri Tipleri   #
+#Eğer tam sayi içeren bir değer atayacaksak integer yani int veri tipini kullaniriz.32 bit yer kaplar.
+#int x = 5 gibi 
+#Eğer ondalikli sayi türünde bir değer atamak istersekte float kullaniliriz.64 bit yer kaplar.
+#float y = 5.5 yazarak atayabiliriz.
+
+#   Metinsel(String) Veri tipi  #
+#Metinsel bir ifade kullanmamiz gerektiğinde kullanilir.Bunlar string ifadelerdir."boşluk" ya da 'boşluk' şeklinde kullanilmasina dikkat edilmelidir.
+#str yazi = "En büyük FENERBAHÇE" yazilabilir.Zaten python yazi değişkenine string veri tipini kendi otomatik atar.
+
+
+#   Boolean Veri tipi   #
+#True ve False olmak üzere 2 değer döndüren veri tipidir.True ise 1 False ise 0 değerini döndürür.İstediğimiz koşula göre bunu kullanabiliriz.
+
+#   Listeler (List)     #
+#Listeler, Python’un bileşik veri tipidir. Bir liste, virgülle ayrilmiş ve köşeli parantez ([]) içine alinmiş öğeler içerir.Farkli veri tiplerini bulundurabilir.
+#Örnek olarak Liste1 = ['FENERBAHÇE','Galatasaray','Beşiktaş']  Liste2=[1,'Kodlamaio',52] şeklinde kullanilabilir.
+
+#2)
+#Yazilim Geliştirici Yetiştirme Kampi- Python & Selenium ifadesi string ifade türüne örnektir.
+#Profilim bölümünde Kart bilgileri, son kullanma tarihi,cvc ve posta Kodu bölgemesi integer veri tipine örnek olabilir.
+#Kategori bölümünde ise alt başliklar list veri tipine örnek gösterilebilir.
+#İş veya eğitim programlari için yukarida verdiğiniz iletişim bilgileriyle sizinle iletişime geçebilir miyiz? sorusu boolean örneği gösterilebilir.Evet ya da Hayir
+
+#3)
+# Ödev 1 sekmesinden örnek vermeye çalişağim.
+# bitirveDevamet==true 
+# if bitirveDevamet:
+    print("Mavi ekran olsun ve diğer pencereye geçiş yapilsin.")
+  else :
+    print("Ödevi tamamlayiniz") 
+
+
